@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "uSDX LPF BAND Module")(type "KiCad")(uri "${KIPRJMOD}/libraries/uSDX LPF BAND Module.kicad_sym")(options "")(descr ""))
+  (lib (name "DC-005-5A-2.0")(type "Legacy")(uri "${KIPRJMOD}/libraries/DC-005-5A-2.0.lib")(options "")(descr ""))
+  (lib (name "SN74ACT00N")(type "Legacy")(uri "${KIPRJMOD}/libraries/SN74ACT00N.lib")(options "")(descr ""))
+  (lib (name "SN74HC04N")(type "Legacy")(uri "${KIPRJMOD}/libraries/SN74HC04N.lib")(options "")(descr ""))
+)
